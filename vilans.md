@@ -12,5 +12,6 @@
 
 ## Caos Digital
 
-- Poder: Controlar sistemes informàtics i dispositius electrònics.
-- Objectiu: Controlar la tecnologia mundial i derrotar ElectroX.
+- Poder: Controlar sistemes informàtics, dispositius electrònics i crear virus digitals.
+- Objectiu: Controlar la tecnologia mundial, provocar una apagada global i derrotar ElectroX.
+- Característica: Pot introduir-se dins de qualsevol xarxa informàtica sense ser detectat.
