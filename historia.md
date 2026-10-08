@@ -19,3 +19,11 @@ Quan el virus torna a activar-se, ElectroX rep l'ajuda d'Ombra Veloç. Mentre El
 Finalment, ElectroX crea un camp elèctric que bloqueja el virus i obliga Caos Digital a abandonar la xarxa. La ciutat recupera l'electricitat, però Caos Digital aconsegueix escapar una altra vegada.
 
 ElectroX i Ombra Veloç decideixen unir forces per impedir el pròxim atac.
+
+## L'arribada de Fènix Blau
+
+Després de l'últim atac de Caos Digital, ElectroX i Ombra Veloç descobreixen que el vilà està preparant un nou virus per destruir Nova Llum.
+
+Quan Caos Digital inicia l'atac, apareix Fènix Blau, un nou heroi capaç de controlar el foc blau. Fènix Blau destrueix els servidors infectats mentre ElectroX recupera el control de la xarxa elèctrica.
+
+Els tres herois aconsegueixen protegir Nova Llum, però Caos Digital torna a escapar. Fènix Blau decideix unir-se als herois per defensar Terra Nova.

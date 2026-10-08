@@ -24,3 +24,8 @@
 
 - Poder: Llegir la ment.
 - Descripció: Pot conèixer els pensaments dels altres i comunicar-se telepàticament.
+
+## Fènix Blau
+
+- Poder: Controlar el foc blau i regenerar-se després de ser derrotat.
+- Descripció: És un heroi misteriós que protegeix Terra Nova dels atacs més perillosos.
